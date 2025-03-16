@@ -1,0 +1,10 @@
+.git
+.gitignore
+.surgeignore
+LICENSE
+CNAME
+README.md
+*~
+.DS_Store
+._*
+originals
